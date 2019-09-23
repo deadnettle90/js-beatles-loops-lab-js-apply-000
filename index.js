@@ -17,7 +17,7 @@ var facts = ["He was the last Beatle to learn to drive",
         
 function johnLennonFacts(facts) {
   while(facts < facts.length) {
-    facts ++
+    facts++;
   }
-  return
+  return facts + "!!!";
 }
