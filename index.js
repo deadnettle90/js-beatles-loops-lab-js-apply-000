@@ -1,11 +1,11 @@
 // add solution here
 var musicians = ["John Lennon", "Paul McCartney", "George Harrison", "Ringo Starr"];
 var instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"];
-var counter;
+var counter = [];
 
 function theBeatlesPlay(musicians, instruments) {
   var counter = []
-  for(var i = 0; i < arrayLength; i++) {
+  for(var i = 0; i < musicians.length && instruments.length; i++) {
   }
   counter
   return ${`musicians`} + " plays " + ${`instruments`}
