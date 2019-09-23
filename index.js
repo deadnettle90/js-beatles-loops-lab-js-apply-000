@@ -16,9 +16,9 @@ var facts = ["He was the last Beatle to learn to drive",
         "He hated the sound of his own voice"];
         
 function johnLennonFacts(facts) {
-  count = 0;
   array = [];
-  while(count < facts.length) {
+  count = 0;
+  while (count < facts.length) {
     array.push(facts[count] + "!!!");
     count++;
   }
