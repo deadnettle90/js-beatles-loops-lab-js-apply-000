@@ -16,11 +16,11 @@ var facts = ["He was the last Beatle to learn to drive",
         "He hated the sound of his own voice"];
         
 function johnLennonFacts(facts) {
-  array = [];
+  message = [];
   count = 0;
   while (count < facts.length) {
-    array.push(facts[count] + "!!!");
+    message.push(facts[count] + "!!!");
     count++;
   }
-  return array;
+  return message;
 }
