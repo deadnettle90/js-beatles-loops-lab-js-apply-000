@@ -1,4 +1,4 @@
-// add solution here
+// ============= for loop =========================
 var musicians = ["John Lennon", "Paul McCartney", "George Harrison", "Ringo Starr"];
 var instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"];
 
@@ -9,6 +9,9 @@ function theBeatlesPlay(musicians, instruments) {
 }
   return array;
 }
+
+//=============== while loop ==========================
+
 
   var facts = ["He was the last Beatle to learn to drive",
         "He was never a vegetarian",
@@ -23,4 +26,11 @@ function johnLennonFacts(facts) {
     count++;
   }
   return message;
+}
+
+// ================= do-while loop ================
+
+function iLoveTheBeatles() {
+  var num = [];
+  
 }
