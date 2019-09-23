@@ -31,12 +31,10 @@ function johnLennonFacts(facts) {
 // ================= do-while loop ================
 
 function iLoveTheBeatles() {
-  var num = [];
-  var e = "I love the Beatles!";
+  var arr = [];
   var i = 0;
   do {
-    e = i + 1;
-    num = 
-  } while(i < 15);
-  return num;
+    arr.push("I love the Beatles!");
+  } while (i < 15);
+  return arr;
 }
