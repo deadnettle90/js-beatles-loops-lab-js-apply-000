@@ -4,7 +4,7 @@ var instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"];
 var counter;
 
 function theBeatlesPlay() {
-  for() {
+  for(counter = ) {
     
   }
 }
