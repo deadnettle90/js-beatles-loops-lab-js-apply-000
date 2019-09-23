@@ -7,7 +7,7 @@ function theBeatlesPlay(musicians, instruments) {
   for(var i = 0; i < musicians.length && instruments.length; i++) {
   }
   var array = []
-  return ${`musicians`} + " plays " + ${`instruments`}
+  array.push(musicians[i])
 }
 
 var facts = ["He was the last Beatle to learn to drive",
