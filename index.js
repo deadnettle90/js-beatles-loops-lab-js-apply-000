@@ -34,7 +34,5 @@ function iLoveTheBeatles() {
   var num = [];
   do {
     
-  } while() {
-    
-  }
+  } while();
 }
