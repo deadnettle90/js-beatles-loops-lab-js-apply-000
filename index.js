@@ -4,9 +4,10 @@ var instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"];
 var counter;
 
 function theBeatlesPlay(musicians, instruments) {
+  var counter = []
   for(var i = 0; i < arrayLength; i++) {
-    
   }
+  counter
 }
 
 var facts = ["He was the last Beatle to learn to drive",
