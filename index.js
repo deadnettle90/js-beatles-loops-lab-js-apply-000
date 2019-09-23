@@ -36,6 +36,6 @@ function iLoveTheBeatles(number) {
   do {
     arr.push("I love the Beatles!");
     number++;
-  } while (i < 7);
+  } while (number < 7);
   return arr;
 }
