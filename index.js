@@ -21,5 +21,5 @@ function johnLennonFacts(facts) {
   while(count < facts.length) {
     facts++;
   }
-  return facts + "!!!";
+  return facts[] + "!!!";
 }
